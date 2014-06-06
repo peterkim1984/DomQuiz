@@ -1,6 +1,5 @@
 (function() {
 
-  var newscore = 0
   var score = 0
   var question = document.getElementById("question");
   var answer = document.getElementById("answer");
